@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sbt: edu.buffalo.cse.odin:catalyzer_2.13:3.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.mimirdb.info/edu/buffalo/cse/odin/catalyzer_2.13/3.0/catalyzer_2.13-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/null/Coursier/cache/v1/https/maven.mimirdb.info/edu/buffalo/cse/odin/catalyzer_2.13/3.0/catalyzer_2.13-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
